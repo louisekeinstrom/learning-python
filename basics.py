@@ -34,8 +34,8 @@
 # user_input = input("please write something ")
 # print(user_input)
 
-# EXERCISE
-user_input = input("Please enter your name ")
-print(f"Hello {user_input} have a nice day!")
-# There are lots of ways to add different variables, but the easiest way seems to be by using f-string formatting
-# https://www.geeksforgeeks.org/g-fact-25-print-single-multiple-variable-python/
+# # EXERCISE
+# user_input = input("Please enter your name ")
+# print(f"Hello {user_input} have a nice day!")
+# # There are lots of ways to add different variables, but the easiest way seems to be by using f-string formatting
+# # https://www.geeksforgeeks.org/g-fact-25-print-single-multiple-variable-python/
